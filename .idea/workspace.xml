@@ -1,14 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d581fe78-bf09-4605-b9bd-7c603a818964" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/players.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/exes_and_oes.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/exes_and_oes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/funtests.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/funtests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/highscores.kolorek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/highscores.kolorek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/highscores.martyna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/highscores.martyna.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/kolorek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/kolorek.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/funtests/martyna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/funtests/martyna.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/slot_machine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/slot_machine/machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/slot_machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/slot_machine/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/slot_machine/players.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/tic_tac_toe/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/tic_tac_toe/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/tic_tac_toe/classes_board.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/tic_tac_toe/classes_board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/tic_tac_toe/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects_from_infoshare_course/tic_tac_toe/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Kolorek\PycharmProjects\Patryk_Jelowicki\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Xzaj4Qf3YJcRGCj0aUegwgAsT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projects" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kolorek\PycharmProjects\Patryk_Jelowicki" />
+      <recent name="C:\Users\Kolorek\PycharmProjects\Patryk_Jelowicki\Projects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patryk_Jelowicki" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/tic_tac_toe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/tic_tac_toe/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patryk_Jelowicki" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects_from_infoshare_course/slot_machine/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Patryk_Jelowicki" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -32,14 +121,77 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d581fe78-bf09-4605-b9bd-7c603a818964" name="Default Changelist" comment="" />
+      <created>1582051508834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582051508834</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding my project from InfoShare Academy Python course">
+      <created>1582051784654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582051784654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding my project from InfoShare Academy Python course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding my project from InfoShare Academy Python course" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582051699739">
+    <state x="645" y="133" key="CommitChangelistDialog2" timestamp="1582051783889">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582051699739" />
+    <state x="645" y="133" key="CommitChangelistDialog2/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582051783889" />
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1582054447382">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582054447382" />
+    <state width="1837" height="295" key="GridCell.Tab.0.bottom" timestamp="1582057230383">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582057230383" />
+    <state width="1837" height="295" key="GridCell.Tab.0.center" timestamp="1582057230383">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582057230383" />
+    <state width="1837" height="295" key="GridCell.Tab.0.left" timestamp="1582057230383">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582057230383" />
+    <state width="1837" height="295" key="GridCell.Tab.0.right" timestamp="1582057230383">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582057230383" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582057293448">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1582057293448" />
   </component>
 </project>

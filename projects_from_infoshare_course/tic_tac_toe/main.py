@@ -1,4 +1,4 @@
-from Projects.tic_tac_toe.classes_board import Board
+from projects_from_infoshare_course.tic_tac_toe.classes_board import Board
 import os
 
 

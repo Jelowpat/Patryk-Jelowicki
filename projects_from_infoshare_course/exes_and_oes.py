@@ -1,4 +1,4 @@
-# a game of x and o
+# a game of x and o (first version, not object oriented)
 
 # a function for displaying the board with notes
 def display(board, note_):

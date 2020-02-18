@@ -1,10 +1,11 @@
-from Projects.slot_machine.machine import OneArmBandit
-from Projects.slot_machine.player import Player
+from projects_from_infoshare_course.slot_machine.machine import OneArmBandit
+from projects_from_infoshare_course.slot_machine.player import Player
 import os, json
 
 clear = lambda: os.system('cls')
 
 
+# a function for depositing money on the machine (checking if input is int and more than 100, also returning info)
 def deposit(init=False):
     note = ""
     while True:
@@ -24,7 +25,7 @@ def deposit(init=False):
             note = "insert a number (minimum 100)"
             continue
 
-
+# a loop for taking players name
 while True:
 
     player = input("insert your name and surname\n").split()
@@ -36,7 +37,7 @@ while True:
         clear()
         print("NAME and SURNAME, please")
 
-
+# checking if the player has already been registered in our json file
 with open("players.json") as file:
     data = json.load(file)
 
@@ -49,15 +50,14 @@ for x in data["players"]:
         break
 
 print(welcome)
-print(punter.__dict__)
 input("press enter to begin")
 
 
 game = OneArmBandit()
 screen = f"credits: 0\n" + str(game) + \
              f"total bet: 10 (10 * lines)\n" + \
-             f"lines: 7\n"
-money, info = deposit(init=True)
+             f"lines: 7\n"                     # this is the string to be displayed
+money, info = deposit(init=True)               # "info" is a helpful variable for displaying announcments in the console
 punter.deposit(money)
 bet = 10
 
@@ -68,13 +68,13 @@ while True:
              f"lines: {game.lines}\n"
 
     clear()
-    print(punter.__dict__)
-    print(screen, info, sep="\n")
+    print(screen, info, sep="\n")               # displaying the game
     info = ""
     decision = input("any to spin, 'u' to increase the bet, 'l' to lower the bet,\n"
                      "'w' to withdraw all, 'd' to deposit, 's' to switch number of lines\n")
     if decision == "q":
         punter.save()
+        print("thanks for playing!!!")
         break
     if decision == "w":
         info = f"you have just collected {punter.credits} credits!!!"
@@ -82,7 +82,7 @@ while True:
         clear()
         print(screen, info, sep="\n")
         input("press enter to continue")
-        money, note = deposit(init=True)
+        money, info = deposit(init=True)
         punter.deposit(money)
         continue
     if decision == "d":
@@ -105,6 +105,8 @@ while True:
         game.swap()
         info = f"changed to {OneArmBandit.cases[game.flag]['number']}"
         continue
+
+    # the actual code for proceeding with the game
     else:
         if game.spin(bet, punter.credits):
             punter.credits -= bet * game.lines
